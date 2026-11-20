@@ -1,0 +1,789 @@
+{
+  "source": "Di Francesco — Notes 2025–2026",
+  "pages": "57–93",
+  "coverageAudit": [
+    {
+      "section": "3.1",
+      "label": "Archived item 3.1",
+      "page": 58,
+      "nodeIds": [
+        "ch3-elementary-set"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.1",
+      "label": "Archived item 3.2",
+      "page": 58,
+      "nodeIds": [
+        "ch3-jordan",
+        "ch3-jordan-boundary"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.1",
+      "label": "Archived item 3.3",
+      "page": 59,
+      "nodeIds": [
+        "ch3-subgraph-volume"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.1",
+      "label": "Archived item 3.4",
+      "page": 59,
+      "nodeIds": [
+        "ch3-jordan-failure"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.1",
+      "label": "Archived item 3.5",
+      "page": 59,
+      "nodeIds": [
+        "ch3-riemann-uniform-limit"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.2",
+      "label": "Archived item 3.6",
+      "page": 60,
+      "nodeIds": [
+        "ch3-measurable-set"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.2",
+      "label": "Archived item 3.7",
+      "page": 60,
+      "nodeIds": [
+        "ch3-regularity-gap"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.2",
+      "label": "Archived item 3.8",
+      "page": 60,
+      "nodeIds": [
+        "ch3-jordan-lebesgue-agreement"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.2",
+      "label": "Archived item 3.9",
+      "page": 60,
+      "nodeIds": [
+        "ch3-null-set"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.2",
+      "label": "Archived item 3.10",
+      "page": 60,
+      "nodeIds": [
+        "ch3-finite-measure-operations"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.2",
+      "label": "Archived item 3.11",
+      "page": 61,
+      "nodeIds": [
+        "ch3-countable-measure",
+        "ch3-measure-below",
+        "ch3-measure-above"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.2",
+      "label": "Archived item 3.12",
+      "page": 61,
+      "nodeIds": [
+        "ch3-measure-above"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.2",
+      "label": "Archived item 3.13",
+      "page": 61,
+      "nodeIds": [
+        "ch3-translation"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.2",
+      "label": "Archived item 3.14",
+      "page": 61,
+      "nodeIds": [
+        "ch3-countable-null"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.3",
+      "label": "Archived item 3.15",
+      "page": 63,
+      "nodeIds": [
+        "ch3-simple-function"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.3",
+      "label": "Archived item 3.16",
+      "page": 64,
+      "nodeIds": [
+        "ch3-simple-integral"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.3",
+      "label": "Archived item 3.17",
+      "page": 64,
+      "nodeIds": [
+        "ch3-simple-approximation"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.3",
+      "label": "Archived item 3.18",
+      "page": 64,
+      "nodeIds": [
+        "ch3-nonnegative-integral",
+        "ch3-signed-integral",
+        "ch3-integral-over-set"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.3",
+      "label": "Archived item 3.19",
+      "page": 65,
+      "nodeIds": [
+        "ch3-almost-everywhere"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.3",
+      "label": "Archived item 3.20",
+      "page": 65,
+      "nodeIds": [
+        "ch3-monotone-convergence"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.3",
+      "label": "Archived item 3.21",
+      "page": 66,
+      "nodeIds": [
+        "ch3-integral-properties",
+        "ch3-markov"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.3",
+      "label": "Archived item 3.22",
+      "page": 67,
+      "nodeIds": [
+        "ch3-fubini"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.3",
+      "label": "Archived item 3.23",
+      "page": 67,
+      "nodeIds": [
+        "ch3-zero-on-every-set"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.3",
+      "label": "Archived item 3.24",
+      "page": 68,
+      "nodeIds": [
+        "ch3-fatou"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.3",
+      "label": "Archived item 3.25",
+      "page": 68,
+      "nodeIds": [
+        "ch3-concentration"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.3",
+      "label": "Archived item 3.26",
+      "page": 69,
+      "nodeIds": [
+        "ch3-travelling-mass"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.3",
+      "label": "Archived item 3.27",
+      "page": 69,
+      "nodeIds": [
+        "ch3-dominated-convergence"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.4",
+      "label": "Archived item 3.28",
+      "page": 70,
+      "nodeIds": [
+        "ch3-lp-quantity",
+        "ch3-essential-supremum"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.4",
+      "label": "Archived item 3.29",
+      "page": 71,
+      "nodeIds": [
+        "ch3-continuous-essential"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.4",
+      "label": "Archived item 3.30",
+      "page": 71,
+      "nodeIds": [
+        "ch3-essential-bound"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.4",
+      "label": "Archived item 3.31",
+      "page": 72,
+      "nodeIds": [
+        "ch3-holder"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.4",
+      "label": "Archived item 3.32",
+      "page": 73,
+      "nodeIds": [
+        "ch3-weighted-product"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.4",
+      "label": "Archived item 3.33",
+      "page": 73,
+      "nodeIds": [
+        "ch3-minkowski"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.4",
+      "label": "Archived item 3.34",
+      "page": 74,
+      "nodeIds": [
+        "ch3-equivalence-quotient"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.4",
+      "label": "Archived item 3.35",
+      "page": 74,
+      "nodeIds": [
+        "ch3-equivalence-quotient"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.4",
+      "label": "Archived item 3.36",
+      "page": 74,
+      "nodeIds": [
+        "ch3-lp-space"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.4",
+      "label": "Archived item 3.37",
+      "page": 74,
+      "nodeIds": [
+        "ch3-lp-space"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.4",
+      "label": "Archived item 3.38",
+      "page": 74,
+      "nodeIds": [
+        "ch3-lp-space",
+        "ch3-lp-convergence"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.4",
+      "label": "Archived item 3.39",
+      "page": 75,
+      "nodeIds": [
+        "ch3-riesz-fischer",
+        "ch3-ae-subsequence"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.4",
+      "label": "Archived item 3.40",
+      "page": 75,
+      "nodeIds": [
+        "ch3-typewriter",
+        "ch3-convergence-comparison"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.4",
+      "label": "Archived item 3.41",
+      "page": 76,
+      "nodeIds": [
+        "ch2-support",
+        "ch2-compact-support"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.4",
+      "label": "Archived item 3.42",
+      "page": 76,
+      "nodeIds": [
+        "ch3-set-distance"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.4",
+      "label": "Archived item 3.43",
+      "page": 76,
+      "nodeIds": [
+        "ch3-distance-lipschitz",
+        "ch3-positive-separation",
+        "ch3-compact-buffer"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.4",
+      "label": "Archived item 3.44",
+      "page": 77,
+      "nodeIds": [
+        "ch3-cutoff"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.4",
+      "label": "Archived item 3.45",
+      "page": 78,
+      "nodeIds": [
+        "ch3-simple-density",
+        "ch3-cc-density",
+        "ch3-cc-not-linfinity-dense",
+        "ch3-simple-linfinity-density"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.4",
+      "label": "Archived item 3.46",
+      "page": 79,
+      "nodeIds": [
+        "ch3-lp-separable",
+        "ch3-linfinity-nonseparable"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.4",
+      "label": "Archived item 3.47",
+      "page": 80,
+      "nodeIds": [
+        "ch3-finite-measure-embedding",
+        "ch3-lp-no-global-inclusion"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.4",
+      "label": "Archived item 3.48",
+      "page": 80,
+      "nodeIds": [
+        "ch3-local-lp"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.4",
+      "label": "Archived item 3.49",
+      "page": 80,
+      "nodeIds": [
+        "ch3-local-inclusions"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.5",
+      "label": "Archived item 3.50",
+      "page": 81,
+      "nodeIds": [
+        "ch3-convolution",
+        "ch3-young-convolution"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.5",
+      "label": "Archived item 3.51",
+      "page": 81,
+      "nodeIds": [
+        "ch3-convolution-pairing"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.5",
+      "label": "Archived item 3.52",
+      "page": 82,
+      "nodeIds": [
+        "ch3-essential-support",
+        "ch3-support-agreement"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.5",
+      "label": "Archived item 3.53",
+      "page": 82,
+      "nodeIds": [
+        "ch3-support-convolution"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.5",
+      "label": "Archived item 3.54",
+      "page": 83,
+      "nodeIds": [
+        "ch3-modulus"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.5",
+      "label": "Archived item 3.55",
+      "page": 83,
+      "nodeIds": [
+        "ch3-convolution-continuity"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.5",
+      "label": "Archived item 3.56",
+      "page": 84,
+      "nodeIds": [
+        "ch3-convolution-derivatives"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.5",
+      "label": "Archived item 3.57",
+      "page": 85,
+      "nodeIds": [
+        "ch3-mollifier"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.5",
+      "label": "Archived item 3.58",
+      "page": 85,
+      "nodeIds": [
+        "ch3-mollifier-uniform"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.5",
+      "label": "Archived item 3.59",
+      "page": 86,
+      "nodeIds": [
+        "ch3-mollifier-lp"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.5",
+      "label": "Archived item 3.60",
+      "page": 86,
+      "nodeIds": [
+        "ch3-smooth-density"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.5",
+      "label": "Archived item 3.61",
+      "page": 87,
+      "nodeIds": [
+        "ch3-test-functions-detect"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.6",
+      "label": "Archived item 3.62",
+      "page": 88,
+      "nodeIds": [
+        "ch3-kolmogorov-local",
+        "ch3-uniform-translation"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.6",
+      "label": "Archived item 3.63",
+      "page": 90,
+      "nodeIds": [
+        "ch3-tightness",
+        "ch3-kolmogorov-global",
+        "ch3-escaping-translates"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.7",
+      "label": "Exercise 1",
+      "page": 90,
+      "nodeIds": [
+        "ch3-null-integral",
+        "ch3-finite-measure-operations"
+      ],
+      "note": "Null-set deletion preserves measure; indicator integrals or disjoint additivity provide the argument."
+    },
+    {
+      "section": "3.7",
+      "label": "Exercise 2",
+      "page": 91,
+      "nodeIds": [
+        "ch3-fatou-negative"
+      ],
+      "note": "Explicit negative travelling-mass counterexample."
+    },
+    {
+      "section": "3.7",
+      "label": "Exercise 3",
+      "page": 91,
+      "nodeIds": [
+        "ch3-indicator-measurability"
+      ],
+      "note": "Both directions of the indicator measurability test."
+    },
+    {
+      "section": "3.7",
+      "label": "Exercise 4",
+      "page": 91,
+      "nodeIds": [
+        "ch3-ae-nonnegative-limit"
+      ],
+      "note": "One common exceptional set preserves the nonnegative limit."
+    },
+    {
+      "section": "3.7",
+      "label": "Exercise 5",
+      "page": 91,
+      "nodeIds": [
+        "ch3-integrable-tail"
+      ],
+      "note": "DCT gives the useful bounded-E strengthening; printed arbitrary-E statement is trivial."
+    },
+    {
+      "section": "3.7",
+      "label": "Exercise 6",
+      "page": 91,
+      "nodeIds": [
+        "ch3-convergence-exercise-method",
+        "ch3-scaling-peaks",
+        "ch3-dominated-convergence"
+      ],
+      "note": "Granular methods cover the eight parameter variations: pointwise limits, rescaling, integral finiteness, and moving maxima; no separate card per arithmetic variant."
+    },
+    {
+      "section": "3.7",
+      "label": "Exercise 7",
+      "page": 91,
+      "nodeIds": [
+        "ch3-holder-general-product"
+      ],
+      "note": "General target-exponent product inequality."
+    },
+    {
+      "section": "3.7",
+      "label": "Exercise 8",
+      "page": 92,
+      "nodeIds": [
+        "ch3-radial-power-test"
+      ],
+      "note": "Near-zero and tail radial powers, with p∞ handled separately."
+    },
+    {
+      "section": "3.7",
+      "label": "Exercise 9",
+      "page": 92,
+      "nodeIds": [
+        "ch3-power-log-test",
+        "ch3-radial-power-test"
+      ],
+      "note": "All six variants use endpoint asymptotics; critical power-log and essential boundedness tests supplied."
+    },
+    {
+      "section": "3.7",
+      "label": "Exercise 10",
+      "page": 92,
+      "nodeIds": [
+        "ch3-scaling-peaks",
+        "ch3-lp-membership-first",
+        "ch3-dominated-convergence"
+      ],
+      "note": "Six variants share scaling, dominated convergence, and membership checks; explicit non-L2 example and exponential threshold included."
+    },
+    {
+      "section": "3.7",
+      "label": "Exercise 11",
+      "page": 92,
+      "nodeIds": [
+        "ch3-exercise11-correction"
+      ],
+      "note": "Printed central value n contradicts advertised finite-p convergence; analyzed literally and flagged."
+    },
+    {
+      "section": "3.7",
+      "label": "Exercise 12",
+      "page": 93,
+      "nodeIds": [
+        "ch3-convolution-compactness"
+      ],
+      "note": "Young plus kernel translation continuity and local KRF."
+    },
+    {
+      "section": "3.7",
+      "label": "Exercise 13",
+      "page": 93,
+      "nodeIds": [
+        "ch3-escaping-translates"
+      ],
+      "note": "Requires nonzero compact bump; drift defeats global compactness despite translation control."
+    },
+    {
+      "section": "3.2",
+      "label": "Nonmeasurable sets and dimension",
+      "page": 62,
+      "nodeIds": [
+        "ch3-nonmeasurable",
+        "ch3-dimension-measure"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.2",
+      "label": "Measurable functions and closure operations",
+      "page": 62,
+      "nodeIds": [
+        "ch3-measurable-function",
+        "ch3-measurability-tests",
+        "ch3-measurable-arithmetic",
+        "ch3-measurable-limits"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.5",
+      "label": "Essential support definition",
+      "page": 82,
+      "nodeIds": [
+        "ch3-essential-support"
+      ],
+      "note": "Covered by the listed study cards."
+    },
+    {
+      "section": "3.5",
+      "label": "Minkowski sum of sets",
+      "page": 82,
+      "nodeIds": [
+        "ch3-support-convolution"
+      ],
+      "note": "Covered by the listed study cards."
+    }
+  ],
+  "notes": {
+    "coverage": "Archived additions without a verified current lecture reference remain ahead. Material matched to the 28 October transcription is current, with the archive retained as a secondary reference.",
+    "sectionNumbers": "New app group numbers3.9–3.14 are navigation identifiers, not archived subsection numbering; archiveReference.section carries the original subsection.",
+    "proofs": "All proof sketches are added study explanations. Archive omissions and corrections are stated explicitly.",
+    "sourceErrors": [
+      "The archive states existence and names Vitali, without providing a construction or proof. This proof sketch is added study material, not a lecture or archive quotation.",
+      "The archive proof on p78 says x∈K implies d(x,K)=1; the correct distance is zero. The displayed ratio cutoff still has value one. This card uses the equivalent simpler distance cutoff.",
+      "A diagonal sequence requires coordinated approximations; the sketch uses one explicit truncation/quantization schedule rather than assuming an arbitrary diagonal converges.",
+      "For signed coefficients the error bound is |α|ᵖm(U\\K), not αᵖm(U\\K). Choose U inside Ω so the resulting support is compact in the required domain.",
+      "The archive argument choosing any function discontinuous at one point is insufficient: changing a continuous function at one point does not change its L∞ class. The counterexample here has a genuine essential jump. Empty domains are excluded.",
+      "The archive omits the finite-p proof and sketches the rational-box approximation route. The proof sketch expands that route.",
+      "The conclusion needs a nontrivial domain. On a null domain L∞ consists only of the zero class and is separable; the archive’s surrounding setting is an open domain.",
+      "The archive proves p=1 and treats∞ directly, but omits the interior-p proof. That proof is supplied here as a study sketch.",
+      "The card uses the real bilinear pairing as in the archive. A complex sesquilinear pairing requires the corresponding conjugation.",
+      "The archive omits the closure in the general statement. Sums of two arbitrary closed sets need not be closed; the proof only gives the closed-sum inclusion. Compactly supported applications in the following pages are unaffected.",
+      "The codomain includes zero; a constant function contradicts the archive’s strictly positive codomain. Use a slightly smaller δ when passing from a strict-distance uniform-continuity condition to |x−y|≤δ.",
+      "The archive says multi-index length “less than k”; the same proof gives the usual |α|≤k conclusion. The difference quotient denominator is |h|, not the vector h.",
+      "Visually checked p85: the archive’s bump example has the impossible condition |x|<0. The intended condition is |x|<1. Its support condition uses the closed ball.",
+      "Uniform continuity must be applied on a compact enlargement, since x−y need not remain in K. The conclusion is on each fixed compact set, not necessarily uniform on all of space.",
+      "The archive omits the general-domain details. The sketch supplies a compact-support-first argument that avoids mollifying across the boundary.",
+      "The conclusion from zero integral is zero almost everywhere, not pointwise. The archive’s phrase “identically zero” should be read in this a.e. sense.",
+      "Individual translation continuity is the standard density-based step used in the archived convolution compactness exercise; this proof is supplied as study material.",
+      "The archive applies Arzelà–Ascoli to a merely bounded measurable set ω. The sketch applies it on a compact containing ball, then restricts. Finite measure is used in the tail reduction; Ω itself need not be bounded.",
+      "The archive states this sufficient global criterion and omits proof. The sketch gives the local-to-global argument; it does not attribute a proof to the archive.",
+      "Exercise 13 requires a nonzero bump; the zero bump gives a compact singleton. Use translations along a fixed coordinate direction in dimensions greater than one.",
+      "The printed exercise merely asks for a measurable E, which is trivial with E=ℝᵈ. Its DCT hint indicates the useful stronger bounded-set conclusion; the card states and proves that strengthening explicitly.",
+      "The printed power inequalities are finite-p criteria. They must not be applied literally at p=∞.",
+      "Visually checked pp92–93: the central value is printed n, while the exercise claims finite-p convergence. These are inconsistent. The card analyzes the printed formula and does not silently substitute a guessed intended formula such as nx."
+    ]
+  }
+}

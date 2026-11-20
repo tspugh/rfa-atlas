@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore Chapters 1–3 of Real and Functional Analysis through connected graphs and recall cards with proof sketches, grounded in current lecture transcriptions. The full archived Chapter 3 is included, with later material marked ahead of the current lectures.">
+  <meta name="theme-color" content="#f6f7f4">
+  <title>RFA Atlas · Chapters 1–3</title>
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="vendor/katex/katex.min.css">
+  <link rel="stylesheet" href="styles.css?v=ae66493eb0d7">
+  <script defer src="vendor/katex/katex.min.js"></script>
+  <script defer src="vendor/katex/contrib/auto-render.min.js"></script>
+  <script defer src="data.js?v=287c4b834f47"></script>
+  <script defer src="lectures.js?v=faa1474bff97"></script>
+  <script defer src="app.js?v=565992a47746"></script>
+</head>
+<body>
+  <a class="skip" href="#workspace">Skip to study area</a>
+  <header class="topbar">
+    <a href="./" class="brand" aria-label="RFA Atlas home"><span class="brand-icon">∴</span><strong>RFA <span>Atlas</span></strong></a>
+    <div class="course-label">REAL &amp; FUNCTIONAL ANALYSIS <span>/</span> <b id="course-chapter">CHAPTER 01</b></div>
+    <a class="quiet" href="true-false.html">True / False</a>
+    <div class="layout-switch" role="group" aria-label="Workspace layout">
+      <button id="split-view" class="active" aria-pressed="true" title="Graph and flashcard side by side">Split</button>
+      <button id="graph-view" aria-pressed="false" title="Expand the graph">Graph</button>
+      <button id="cards-view" aria-pressed="false" title="Focus on flashcards">Flashcards</button>
+    </div>
+    <button class="quiet" id="about">About & sources <span aria-hidden="true">↗</span></button>
+  </header>
+  <main class="app-shell" data-view="split">
+    <aside class="sidebar" aria-label="Chapter navigation">
+      <div class="sidebar-title"><span class="eyebrow">EXPLORE THE COURSE</span><span id="chapter-no" class="chapter-no">01</span></div>
+      <nav id="chapters" class="chapter-switcher" aria-label="Choose chapter"></nav>
+      <h1 id="chapter-title">Metrics, norms, topologies.</h1>
+      <p class="subtle intro">A connected map of the ideas<br>behind the analysis.</p>
+      <label class="search-wrap"><svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5"/><path d="m13 13 4 4"/></svg><input id="search" type="search" placeholder="Search all chapters…" aria-label="Search all chapters" autocomplete="off"><kbd>/</kbd></label>
+      <div class="oral-control"><label><input id="oral-only" type="checkbox"><span>Oral questions only</span></label><label class="sr-only" for="oral-kind">Oral question type</label><select id="oral-kind" aria-describedby="oral-help" disabled><option value="all">All oral questions</option><option value="regular">Regular questions</option><option value="long-form">Long-form questions</option></select><small id="oral-help">Amber cards appear in the updated oral-question list (Chapters 1–3).</small></div>
+      <button class="overview section-button" id="overview"><span class="nav-number">◎</span><span>Entire chapter</span><small id="total-count"></small></button>
+      <nav id="sections" aria-label="Sections"></nav>
+      <div class="sidebar-footer"><div class="coverage-dot"></div><div><strong id="coverage-label">From your current lectures</strong><span id="coverage-dates">22 Sep – 6 Oct 2026</span></div></div>
+    </aside>
+    <section class="workspace" id="workspace" aria-label="Concept explorer" tabindex="-1">
+      <div class="workspace-heading"><div><div class="eyebrow" id="section-kicker">SECTION 1.1</div><h2 id="section-title">Metrics & norms</h2></div><div class="mode-switch" aria-label="View"><button id="graph-mode" class="active" aria-pressed="true">⌘ <span>Graph</span></button><button id="list-mode" aria-pressed="false">☷ <span>List</span></button></div></div>
+      <p class="coverage-notice" id="coverage-notice" hidden></p>
+      <div class="filterbar"><label><span class="sr-only">Node type</span><select id="type-filter"><option value="all">All types</option><option value="definition">Definitions</option><option value="theorem">Theorems</option><option value="proposition">Propositions</option><option value="topic">Topics</option></select></label><label><span class="sr-only">Review status</span><select id="status-filter"><option value="all">All cards</option><option value="new">Not reviewed</option><option value="reviewed">Reviewed</option><option value="again">Review again</option><option value="known">Got it</option></select></label><label><span class="sr-only">Lecture coverage</span><select id="coverage-filter"><option value="all">All material</option><option value="current">Current lectures</option><option value="ahead">Ahead of lectures</option></select></label><button class="quiet clear-filters" id="clear" hidden>Clear filters</button><span id="visible-count" class="subtle"></span></div>
+      <div class="graph-wrap" id="graph-wrap">
+        <div class="graph-guide"><span class="guide-dot"></span><span>Click to study · Drag a node to rearrange</span></div>
+        <svg id="graph" role="group" aria-label="Interactive concept graph. Drag nodes to rearrange them. Use Tab and Enter to open a flashcard, or Alt and arrow keys to move a focused node."><defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="context-stroke"/></marker><filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#183a32" flood-opacity=".09"/></filter></defs><g id="viewport"><g id="edges"></g><g id="nodes"></g></g></svg>
+        <div id="empty" class="empty" hidden><span>∅</span><h3>No matching concepts</h3><p>Try a different name or clear your filters.</p><button class="secondary" id="empty-clear">Clear filters</button></div>
+        <div class="graph-bottom"><div class="legend"><span class="definition">Definition</span><span class="theorem">Theorem</span><span class="proposition">Proposition</span><span class="topic">Topic</span><span class="oral-legend">Oral question</span></div><div class="zoom"><button id="zoom-out" aria-label="Zoom out">−</button><span id="zoom-label">100%</span><button id="zoom-in" aria-label="Zoom in">+</button><button id="fit" aria-label="Fit graph to view" title="Fit graph">⛶</button></div></div>
+        <div class="graph-tip">Drag nodes to move · Drag background to pan · Scroll to zoom</div>
+      </div>
+      <div id="list-view" class="list-view" hidden></div>
+      <div class="workspace-bottom"><span id="connection-count"></span><button class="quiet" id="reset-layout" title="Restore the default node arrangement in this view">Reset layout</button></div>
+    </section>
+    <aside class="study-panel" id="study-panel" aria-label="Flashcard study panel" tabindex="-1">
+      <div class="study-heading"><span class="eyebrow">RECALL & UNDERSTAND</span><span id="position" class="subtle"></span></div>
+      <div class="random-controls">
+        <label class="sr-only" for="random-scope">Choose random card from</label>
+        <select id="random-scope" aria-describedby="random-help"><option value="chapter">This chapter</option><option value="all">All notes</option></select>
+        <button class="secondary" id="random" aria-describedby="random-help" aria-keyshortcuts="ArrowRight" title="Random card (Right arrow)">Random card <kbd aria-hidden="true">→</kbd></button>
+        <span id="random-help" class="sr-only">Choose from the whole chapter or all notes. Oral questions only applies when enabled; other filters do not limit random selection. Press the right arrow key for another random card. The current card will not repeat immediately.</span>
+      </div>
+      <div class="card-meta"><span id="card-type" class="type-badge"></span><span id="card-section" class="subtle"></span></div>
+      <div class="card-status-row"><span id="card-coverage" class="coverage-badge"></span><label class="review-check"><input id="reviewed" type="checkbox"> Reviewed</label></div>
+      <div id="card-oral" class="card-oral" hidden></div>
+      <div id="flashcard" class="flashcard" aria-live="polite"></div>
+      <button id="reveal" class="primary">Reveal card <kbd>Space</kbd></button>
+      <div id="rating" class="rating unrevealed"><button id="again" class="secondary">↻ Review again</button><button id="known" class="secondary positive">✓ Got it</button></div>
+      <div class="card-navigation"><button class="quiet" id="prev" aria-label="Previous flashcard">← Previous</button><button class="quiet" id="next" aria-label="Next flashcard in section order" title="Next card in section order">Next in section</button></div>
+      <div class="relationships"><div class="relations-heading"><h3>Connected ideas</h3><span id="relation-total"></span></div><p class="subtle relation-hint">Reveal the card to explore its relationships.</p><div id="relations" hidden></div></div>
+      <div class="study-footer"><span id="progress-text"></span><div class="progress-track"><div id="progress-bar"></div></div><small id="save-status" aria-live="polite">Review status is saved in this browser between visits.</small></div>
+    </aside>
+  </main>
+  <div id="announcement" class="sr-only" aria-live="polite"></div>
+  <div id="toast" class="toast" role="status" hidden></div>
+  <dialog id="source-dialog"><div class="dialog-head"><span class="eyebrow">LECTURE REFERENCES</span><button id="close-dialog" class="icon-button" aria-label="Close references">×</button></div><div id="source-content"></div></dialog>
+  <noscript><p class="no-js">Enable JavaScript to explore the graph and study the flashcards.</p></noscript>
+</body>
+</html>
